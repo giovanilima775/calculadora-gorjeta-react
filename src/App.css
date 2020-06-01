@@ -1,0 +1,17 @@
+body {
+   background-color: rgb(167, 167, 189);
+   color: #000;
+   font-family: Impact, Charcoal, sans-serif;
+}
+.body {
+   width: 800px;
+   margin: auto;
+   margin-top: 50px;
+   text-align: center;
+   border: 1px solid #FFF;
+   border-radius: 5px;
+}
+p {
+   font-size: 18px;
+   letter-spacing: .2rem;
+}
